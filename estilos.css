@@ -1,0 +1,19 @@
+body{
+  background: #c6c4f0;
+  color: #030001;
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: normal;
+  margin: auto;
+  text-align: justify;
+  text-justify: inter-word;
+}
+h1{
+  color: #030001;
+  font-size: 25px;
+  text-align: center;
+}
+
+.resultado{
+  color: #030001;
+}
